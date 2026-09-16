@@ -1,4 +1,4 @@
-# SOC Analyst Portfolio — Jose Roses
+# SOC Analyst Portfolio — Jose Rosas
 
 Hands-on write-ups from TryHackMe's SOC Level 1 path and related self-study, documenting my transition into a SOC Analyst role. Background: Business Analyst / MDM Admin at Denali Advanced Integration, Security+ certified, active TS/SCI clearance, incoming Defensive Cyber Operations specialist (Texas Air National Guard).
 
